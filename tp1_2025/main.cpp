@@ -281,8 +281,9 @@ void CabeceraTicket(int &ds) {
          << "XXXXXXX 9999\n"
          << "XXXX\n"
          << "C.U.I.T. 99-99999999-9\n"
-         << "Fecha: " << nomDia << " " << dia << "/" << mes << "/" << anio
-         << "\nhora: " << hh << ":" << mm << ":" << ss << "\n"
+         << "Fecha: " << nomDia << " " << setw(2) << dia << "/" << setw(2)
+         << mes << "/" << setw(4) << anio << "\nhora: " << setw(2) << hh << ":"
+         << setw(2) << mm << ":" << setw(2) << ss << "\n"
          << "Nro. Ticket: 9999-99999999\n"
          << "Nro. Caja: 9999\n"
          << Replicate('-', 41) << "\n"
