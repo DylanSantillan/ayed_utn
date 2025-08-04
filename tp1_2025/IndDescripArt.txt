@@ -1,0 +1,44 @@
+Agua mineral Eco de los Andes    13 1
+Alfajor Jorgito chocolate         8 1
+Alimento Dog Chow                40 1
+Arroz Gallo Oro                  20 1
+Asado de tira                    27 1
+Banana Ecuador                    2 1
+Bife de chorizo                  14 1
+Bizcochitos de grasa Don Satur   18 0
+Caramelos Menta Cristal          31 1
+Carne picada                      1 1
+Cepita naranja                   39 1
+Cerveza Quilmes lata              7 1
+Chocolate Aguila                 17 1
+Coca-Cola                         0 1
+Desodorante Poett primavera      21 1
+Detergente Magistral             38 1
+Esponja Scotch Brite             36 1
+Fernet Branca                    26 0
+Galletitas Oreo                  29 1
+Gancia Americano                 42 1
+Heladera LG                      19 1
+Helado Grido vainilla            12 1
+Jamon cocido Paladini            11 1
+Lavandina Ayudin                 22 1
+Leche descremada Sancor          32 1
+Leche entera La Serenisima        5 1
+Lechuga criolla                   3 1
+Manzana roja                     23 1
+Medialunas manteca               25 1
+Microondas Samsung               10 1
+Milanesa de pollo                15 1
+Pan frances                      16 1
+Pan lactal Bimbo                  4 1
+Pan rallado Preferido            30 1
+Papa blanca                      28 1
+Pera Williams                    43 1
+Pollo entero fresco              34 1
+Queso cremoso Milkaut             9 1
+Shampoo Pantene                   6 1
+Sprite Zero                      41 1
+Tomate redondo                   33 1
+Uva sin semilla                  35 1
+Yogur bebible frutilla Sancor    24 1
+Zanahoria                        37 1

@@ -1,0 +1,44 @@
+12389470  6 Coca-Cola                      5600   1350.99 litros     3 20 4 10 1  5 0 10 5 25 0 10 6 20
+ 3748956  3 Carne picada                    105   7450.90 kilos      0  5 3 20 4 10 1 10 6 25 2 15 5 10
+20938457  5 Banana Ecuador                 1450   1650.30 kilos      1  5 2 15 3 10 4 20 0 10 0 25 5 25
+  783901  4 Lechuga criolla                1345    450.00 unidad     1 20 2 10 3  5 0 15 4 20 5 10 6 10
+ 5734261  2 Pan lactal Bimbo                300    540.00 gramos     2 10 4 15 1  5 3 10 5 25 6 20 0 20
+  347953  1 Leche entera La Serenisima     1050    789.50 litros     1 10 3 15 0 30 4 20 6 25 2 10 5 20
+78912345 10 Shampoo Pantene                 935   1225.60 cc         3 20 4 15 1 10 2 15 6 25 5 10 0 10
+ 9231485  7 Cerveza Quilmes lata            360    950.10 cc         2 15 3 10 4 25 1  5 0 10 6 20 5 15
+95456786  8 Alfajor Jorgito chocolate       800    350.75 unidad     1 10 2 15 0 10 3 20 5 10 6 25 4 10
+ 3928475  1 Queso cremoso Milkaut           270   1380.50 gramos     1 10 3 15 0 20 4 20 6 20 2 10 5 20
+56754317 14 Microondas Samsung                1 120000.00 unidad     1  5 4 10 3 10 0  5 6 25 2 20 5 15
+  945623 13 Jamon cocido Paladini           120  11430.00 gramos     2 10 3 15 4 25 5 10 6 25 1  5 0 15
+ 2938457 11 Helado Grido vainilla           710   1850.80 litros     0 20 1 20 3 25 2 15 5 20 6 20 4 15
+29832472  6 Agua mineral Eco de los Andes   655    700.00 litros     2 10 1  5 0  5 4 20 3 10 6 25 5 15
+ 2945669  3 Bife de chorizo                 170   3450.80 kilos      0 30 1 15 4 10 2 10 6 25 0 20 3 15
+  565897  3 Milanesa de pollo               440   2790.50 kilos      2 15 3 10 0 45 1  5 5 10 6 25 4 20
+23456877  2 Pan frances                     225    490.00 gramos     2 15 4 20 0 30 5 10 6 25 1  5 3 15
+ 9085646  8 Chocolate Aguila               1180    890.50 gramos     1 10 2 15 4 20 0 15 3 25 5 10 6 25
+  917354  2 Bizcochitos de grasa Don Satur    0    450.75 gramos     1 10 0 15 3 15 4 10 2 15 6 20 5 15
+47567889 14 Heladera LG                      10 890000.25 gramos     3 20 2 10 1 15 5 10 4 25 0 20 0 10
+ 9836434 12 Arroz Gallo Oro                 500    700.00 gramos     1  5 2 10 0 10 4 20 3 15 6 25 5 10
+43578634  9 Desodorante Poett primavera     135    890.75 cc         1 10 0 20 3 15 4 25 2 20 5 10 6 15
+ 8594734  9 Lavandina Ayudin                250    425.00 litros     1  5 3 15 4 20 2 10 0  5 5 25 6 25
+38794561  5 Manzana roja                    220    590.75 kilos      2 10 3 15 1  5 0 20 5 25 4 20 6 25
+ 8736464  1 Yogur bebible frutilla Sancor    50    650.25 litros     2 10 4 15 1  5 3 10 5 25 6 20 0 20
+89475657  2 Medialunas manteca                2   1580.60 unidad     1 15 2 10 4 20 3 10 6 25 0 10 5 20
+  837645  7 Fernet Branca                     0  12890.00 litros     3 20 4 10 1 15 2 10 0  5 5 25 6 25
+87234623  3 Asado de tira                   110  13590.99 kilos      3 20 1 10 4 15 0 20 5 25 6 20 2 10
+ 1298374  4 Papa blanca                    1260   1390.90 kilos      2 10 4 20 0 10 1 15 3 15 5 10 6 25
+45676748  8 Galletitas Oreo                 330    450.50 gramos     1 15 2 10 0 10 5 25 4 20 6 25 3 15
+ 3486538  2 Pan rallado Preferido           180    350.50 gramos     2 10 1  5 3 10 0 30 5 25 4 15 6 20
+28375611  8 Caramelos Menta Cristal        5640    250.99 gramos     2 10 0  5 3 15 4 20 5 25 0 25 1  5
+ 9847569  1 Leche descremada Sancor           3    720.80 litros     0 10 2 10 4 20 3 15 1  5 6 25 5 10
+10298424  4 Tomate redondo                  280   1575.80 kilos      1 10 2 10 3 15 4 20 5 25 0  5 6 25
+38746557  3 Pollo entero fresco             335   2350.00 kilos      3 20 2 10 1 15 0 15 4 25 5 10 6 15
+  478561  5 Uva sin semilla                  15   1799.99 kilos      2 15 1 10 3 20 5 10 4 20 0 10 6 25
+19238757  9 Esponja Scotch Brite            330    550.20 unidad     2 10 3 15 4 10 1  5 0 15 5 25 6 25
+87539381  4 Zanahoria                       430   1440.00 kilos      0 15 1  5 2 15 3 10 4 20 6 20 5 10
+ 2867423  9 Detergente Magistral              1   1100.60 cc         3 20 2 10 1  5 4 15 0 10 5 25 6 25
+57648365  6 Cepita naranja                  380    950.90 litros     3 20 4 10 2 15 5 25 0 10 6 25 1  5
+83476529 15 Alimento Dog Chow               220  49999.99 gramos     1 10 0 20 2 15 3 20 5 10 6 25 4 15
+  298675  6 Sprite Zero                     450   1285.00 litros     1  5 2 10 3 15 0  5 5 25 0 20 4 10
+73465789  7 Gancia Americano                120  14200.40 litros     1 15 2 10 3 25 0 35 4 20 5 15 6 25
+92873456  5 Pera Williams                  1900   1620.30 kilos      3 20 2 15 0 10 4 25 5 10 0 25 1 15

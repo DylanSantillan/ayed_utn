@@ -1,0 +1,15 @@
+ 1 LACTEOS             
+ 2 PANIFICADOS         
+ 3 CARNES              
+ 4 VERDURAS            
+ 5 FRUTAS              
+ 6 BEBIDAS SIN ALCOHOL 
+ 7 BEBIDAS CON ALCOHOL 
+ 8 GOLOSINAS           
+ 9 LIMPIEZA            
+10 PERFUMERIA          
+11 CONGELADOS          
+12 ALMACEN             
+13 FIAMBRES            
+14 ELECTRODOMESTICOS   
+15 MASCOTAS            
