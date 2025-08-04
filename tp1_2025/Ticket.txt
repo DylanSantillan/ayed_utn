@@ -1,0 +1,247 @@
+K O T T O
+Yo te reconozco
+SUC 170
+XXXXXXX 9999
+XXXX
+C.U.I.T. 99-99999999-9
+Fecha: Domingo  3/ 8/2025
+hora: 21: 7:58
+Nro. Ticket: 9999-99999999
+Nro. Caja: 9999
+-----------------------------------------
+F A C T U R A - B
+-----------------------------------------
+ 6 x $      1440
+Zanahoria                      kilos     
+87539381                     $       8640
+
+50 x $    250.99
+Caramelos Menta Cristal        gramos    
+28375611                     $    12549.5
+Marca      2                 $    1254.95
+
+ 1 x $    1100.6
+Detergente Magistral           cc        
+ 2867423                     $     1100.6
+Jub.       3                 $     220.12
+
+ 2 x $       700
+Arroz Gallo Oro                gramos    
+ 9836434                     $       1400
+Promo      1                 $         70
+
+12 x $   1350.99
+Coca-Cola                      litros    
+12389470                     $    16211.9
+Jub.       3                 $    3242.38
+
+ 4 x $      2350
+Pollo entero fresco            kilos     
+38746557                     $       9400
+Jub.       3                 $       1880
+
+ 3 x $     720.8
+Leche descremada Sancor        litros    
+ 9847569                     $     2162.4
+
+11 x $     550.2
+Esponja Scotch Brite           unidad    
+19238757                     $     6052.2
+Marca      2                 $     605.22
+
+ 2 x $    1380.5
+Queso cremoso Milkaut          gramos    
+ 3928475                     $       2761
+Promo      1                 $      276.1
+
+ 7 x $    3450.8
+Bife de chorizo                kilos     
+ 2945669                     $    24155.6
+
+12 x $     450.5
+Galletitas Oreo                gramos    
+45676748                     $       5406
+Promo      1                 $      810.9
+
+ 5 x $    2790.5
+Milanesa de pollo              kilos     
+  565897                     $    13952.5
+Marca      2                 $    2092.88
+
+23 x $    1850.8
+Helado Grido vainilla          litros    
+ 2938457                     $    42568.4
+
+ 1 x $    120000
+Microondas Samsung             unidad    
+56754317                     $     120000
+Promo      1                 $       6000
+
+11 x $       425
+Lavandina Ayudin               litros    
+ 8594734                     $       4675
+Promo      1                 $     233.75
+
+ 2 x $     13591
+Asado de tira                  kilos     
+87234623                     $      27182
+Jub.       3                 $     5436.4
+
+ 3 x $     789.5
+Leche entera La Serenisima     litros    
+  347953                     $     2368.5
+Promo      1                 $     236.85
+
+15 x $    650.25
+Yogur bebible frutilla Sancor  litros    
+ 8736464                     $    9753.75
+Marca      2                 $    975.375
+
+10 x $    1390.9
+Papa blanca                    kilos     
+ 1298374                     $      13909
+Marca      2                 $     1390.9
+
+ 5 x $    590.75
+Manzana roja                   kilos     
+38794561                     $    2953.75
+Marca      2                 $    295.375
+
+ 2 x $    1580.6
+Medialunas manteca             unidad    
+89475657                     $     3161.2
+Promo      1                 $     474.18
+
+ 3 x $       540
+Pan lactal Bimbo               gramos    
+ 5734261                     $       1620
+Marca      2                 $        162
+
+ 5 x $      1285
+Sprite Zero                    litros    
+  298675                     $       6425
+Promo      1                 $     321.25
+
+ 3 x $    1575.8
+Tomate redondo                 kilos     
+10298424                     $     4727.4
+Promo      1                 $     472.74
+
+=========================================
+T O T A L                   $   316684.28
+=========================================
+
+Su pago con Tipo Pago: 316684.28
+Su vuelto: 0
+ G R A C I A S  P O R  S U  C O M P R A
+ Para consultas, sugerencias o reclamos
+ comunicarse al correo infoKotto.com.ar
+
+
+--------------------------------------------------------------------------------------------------------
+Listado de Articulos ordenados por Código de Rubro
+========================================================================================================
+
+Cod. Rubro: 1 - LACTEOS             
+Cod.Art. Descripcion                    Stk.  Pre.Uni. U.Med.     TD % TD % TD % TD % TD % TD % TD %
+--------------------------------------------------------------------------------------------------------
+  347953 Leche entera La Serenisima     1047    789.50 litros     1 10 3 15 0 30 4 20 6 25 2 10 5 20
+ 3928475 Queso cremoso Milkaut           268   1380.50 gramos     1 10 3 15 0 20 4 20 6 20 2 10 5 20
+ 8736464 Yogur bebible frutilla Sancor    35    650.25 litros     2 10 4 15 1  5 3 10 5 25 6 20 0 20
+ 9847569 Leche descremada Sancor           0    720.80 litros     0 10 2 10 4 20 3 15 1  5 6 25 5 10
+
+Cod. Rubro: 2 - PANIFICADOS         
+Cod.Art. Descripcion                    Stk.  Pre.Uni. U.Med.     TD % TD % TD % TD % TD % TD % TD %
+--------------------------------------------------------------------------------------------------------
+ 5734261 Pan lactal Bimbo                297    540.00 gramos     2 10 4 15 1  5 3 10 5 25 6 20 0 20
+23456877 Pan frances                     225    490.00 gramos     2 15 4 20 0 30 5 10 6 25 1  5 3 15
+  917354 Bizcochitos de grasa Don Satur    0    450.75 gramos     1 10 0 15 3 15 4 10 2 15 6 20 5 15
+89475657 Medialunas manteca                0   1580.60 unidad     1 15 2 10 4 20 3 10 6 25 0 10 5 20
+ 3486538 Pan rallado Preferido           180    350.50 gramos     2 10 1  5 3 10 0 30 5 25 4 15 6 20
+
+Cod. Rubro: 3 - CARNES              
+Cod.Art. Descripcion                    Stk.  Pre.Uni. U.Med.     TD % TD % TD % TD % TD % TD % TD %
+--------------------------------------------------------------------------------------------------------
+ 3748956 Carne picada                    105   7450.90 kilos      0  5 3 20 4 10 1 10 6 25 2 15 5 10
+ 2945669 Bife de chorizo                 163   3450.80 kilos      0 30 1 15 4 10 2 10 6 25 0 20 3 15
+  565897 Milanesa de pollo               435   2790.50 kilos      2 15 3 10 0 45 1  5 5 10 6 25 4 20
+87234623 Asado de tira                   108  13590.99 kilos      3 20 1 10 4 15 0 20 5 25 6 20 2 10
+38746557 Pollo entero fresco             331   2350.00 kilos      3 20 2 10 1 15 0 15 4 25 5 10 6 15
+
+Cod. Rubro: 4 - VERDURAS            
+Cod.Art. Descripcion                    Stk.  Pre.Uni. U.Med.     TD % TD % TD % TD % TD % TD % TD %
+--------------------------------------------------------------------------------------------------------
+  783901 Lechuga criolla                1345    450.00 unidad     1 20 2 10 3  5 0 15 4 20 5 10 6 10
+ 1298374 Papa blanca                    1250   1390.90 kilos      2 10 4 20 0 10 1 15 3 15 5 10 6 25
+10298424 Tomate redondo                  277   1575.80 kilos      1 10 2 10 3 15 4 20 5 25 0  5 6 25
+87539381 Zanahoria                       424   1440.00 kilos      0 15 1  5 2 15 3 10 4 20 6 20 5 10
+
+Cod. Rubro: 5 - FRUTAS              
+Cod.Art. Descripcion                    Stk.  Pre.Uni. U.Med.     TD % TD % TD % TD % TD % TD % TD %
+--------------------------------------------------------------------------------------------------------
+20938457 Banana Ecuador                 1450   1650.30 kilos      1  5 2 15 3 10 4 20 0 10 0 25 5 25
+38794561 Manzana roja                    215    590.75 kilos      2 10 3 15 1  5 0 20 5 25 4 20 6 25
+  478561 Uva sin semilla                  15   1799.99 kilos      2 15 1 10 3 20 5 10 4 20 0 10 6 25
+92873456 Pera Williams                  1900   1620.30 kilos      3 20 2 15 0 10 4 25 5 10 0 25 1 15
+
+Cod. Rubro: 6 - BEBIDAS SIN ALCOHOL 
+Cod.Art. Descripcion                    Stk.  Pre.Uni. U.Med.     TD % TD % TD % TD % TD % TD % TD %
+--------------------------------------------------------------------------------------------------------
+12389470 Coca-Cola                      5588   1350.99 litros     3 20 4 10 1  5 0 10 5 25 0 10 6 20
+29832472 Agua mineral Eco de los Andes   655    700.00 litros     2 10 1  5 0  5 4 20 3 10 6 25 5 15
+57648365 Cepita naranja                  380    950.90 litros     3 20 4 10 2 15 5 25 0 10 6 25 1  5
+  298675 Sprite Zero                     445   1285.00 litros     1  5 2 10 3 15 0  5 5 25 0 20 4 10
+
+Cod. Rubro: 7 - BEBIDAS CON ALCOHOL 
+Cod.Art. Descripcion                    Stk.  Pre.Uni. U.Med.     TD % TD % TD % TD % TD % TD % TD %
+--------------------------------------------------------------------------------------------------------
+ 9231485 Cerveza Quilmes lata            360    950.10 cc         2 15 3 10 4 25 1  5 0 10 6 20 5 15
+  837645 Fernet Branca                     0  12890.00 litros     3 20 4 10 1 15 2 10 0  5 5 25 6 25
+73465789 Gancia Americano                120  14200.40 litros     1 15 2 10 3 25 0 35 4 20 5 15 6 25
+
+Cod. Rubro: 8 - GOLOSINAS           
+Cod.Art. Descripcion                    Stk.  Pre.Uni. U.Med.     TD % TD % TD % TD % TD % TD % TD %
+--------------------------------------------------------------------------------------------------------
+95456786 Alfajor Jorgito chocolate       800    350.75 unidad     1 10 2 15 0 10 3 20 5 10 6 25 4 10
+ 9085646 Chocolate Aguila               1180    890.50 gramos     1 10 2 15 4 20 0 15 3 25 5 10 6 25
+45676748 Galletitas Oreo                 318    450.50 gramos     1 15 2 10 0 10 5 25 4 20 6 25 3 15
+28375611 Caramelos Menta Cristal        5590    250.99 gramos     2 10 0  5 3 15 4 20 5 25 0 25 1  5
+
+Cod. Rubro: 9 - LIMPIEZA            
+Cod.Art. Descripcion                    Stk.  Pre.Uni. U.Med.     TD % TD % TD % TD % TD % TD % TD %
+--------------------------------------------------------------------------------------------------------
+43578634 Desodorante Poett primavera     135    890.75 cc         1 10 0 20 3 15 4 25 2 20 5 10 6 15
+ 8594734 Lavandina Ayudin                239    425.00 litros     1  5 3 15 4 20 2 10 0  5 5 25 6 25
+19238757 Esponja Scotch Brite            319    550.20 unidad     2 10 3 15 4 10 1  5 0 15 5 25 6 25
+ 2867423 Detergente Magistral              0   1100.60 cc         3 20 2 10 1  5 4 15 0 10 5 25 6 25
+
+Cod. Rubro: 10 - PERFUMERIA          
+Cod.Art. Descripcion                    Stk.  Pre.Uni. U.Med.     TD % TD % TD % TD % TD % TD % TD %
+--------------------------------------------------------------------------------------------------------
+78912345 Shampoo Pantene                 935   1225.60 cc         3 20 4 15 1 10 2 15 6 25 5 10 0 10
+
+Cod. Rubro: 11 - CONGELADOS          
+Cod.Art. Descripcion                    Stk.  Pre.Uni. U.Med.     TD % TD % TD % TD % TD % TD % TD %
+--------------------------------------------------------------------------------------------------------
+ 2938457 Helado Grido vainilla           687   1850.80 litros     0 20 1 20 3 25 2 15 5 20 6 20 4 15
+
+Cod. Rubro: 12 - ALMACEN             
+Cod.Art. Descripcion                    Stk.  Pre.Uni. U.Med.     TD % TD % TD % TD % TD % TD % TD %
+--------------------------------------------------------------------------------------------------------
+ 9836434 Arroz Gallo Oro                 498    700.00 gramos     1  5 2 10 0 10 4 20 3 15 6 25 5 10
+
+Cod. Rubro: 13 - FIAMBRES            
+Cod.Art. Descripcion                    Stk.  Pre.Uni. U.Med.     TD % TD % TD % TD % TD % TD % TD %
+--------------------------------------------------------------------------------------------------------
+  945623 Jamon cocido Paladini           120  11430.00 gramos     2 10 3 15 4 25 5 10 6 25 1  5 0 15
+
+Cod. Rubro: 14 - ELECTRODOMESTICOS   
+Cod.Art. Descripcion                    Stk.  Pre.Uni. U.Med.     TD % TD % TD % TD % TD % TD % TD %
+--------------------------------------------------------------------------------------------------------
+56754317 Microondas Samsung                0 120000.00 unidad     1  5 4 10 3 10 0  5 6 25 2 20 5 15
+47567889 Heladera LG                      10 890000.25 gramos     3 20 2 10 1 15 5 10 4 25 0 20 0 10
+
+Cod. Rubro: 15 - MASCOTAS            
+Cod.Art. Descripcion                    Stk.  Pre.Uni. U.Med.     TD % TD % TD % TD % TD % TD % TD %
+--------------------------------------------------------------------------------------------------------
+83476529 Alimento Dog Chow               220  49999.99 gramos     1 10 0 20 2 15 3 20 5 10 6 25 4 15
