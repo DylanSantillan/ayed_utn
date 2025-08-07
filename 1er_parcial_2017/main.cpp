@@ -13,7 +13,7 @@ struct sVotos {
 };
 
 struct sEnc {
-    char sexo;  // 'M' o 'V'
+    char sexo;
     ushort edad;
     str20 nomTema;
 };
@@ -36,13 +36,13 @@ short busBinVec(tvVotos vVotos, str20 nomTema, ushort card) {
     return -1;
 }
 
-void IntCmb(sVotos &elem1, sVotos &elem2) {
+void intCmb(sVotos &elem1, sVotos &elem2) {
     sVotos aux = elem1;
     elem1 = elem2;
     elem2 = aux;
 }
 
-void OrdxBur(tvVotos vVotos, ushort card) {
+void ordxBur(tvVotos vVotos, ushort card) {
     ushort k = 0;
     bool ordenado;
     do {
@@ -51,7 +51,7 @@ void OrdxBur(tvVotos vVotos, ushort card) {
         for (ushort i = 0; i <= card - k; i++)
             if (vVotos[i].cantVotos < vVotos[i + 1].cantVotos) {
                 ordenado = false;
-                IntCmb(vVotos[i], vVotos[i + 1]);
+                intCmb(vVotos[i], vVotos[i + 1]);
             }
     } while (!ordenado);
 }
@@ -78,7 +78,7 @@ void obtDatos(sEnc &rEnc) {
         cin >> rEnc.edad;
         cin.ignore();
         cout << "Ingrese su tema: ";
-        cin.getline(rEnc.nomTema, 21);
+        cin.get(rEnc.nomTema, 21);
     } else {
         rEnc.edad = 0;
         strcpy(rEnc.nomTema, "*");
@@ -104,7 +104,7 @@ void acumVotos(tvVotos vVotos, sEnc rEnc, ushort cantTemas) {
 };
 
 void listadoTemasMusicales(tvVotos vVotos, ushort cantTemas) {
-    OrdxBur(vVotos, cantTemas);
+    ordxBur(vVotos, cantTemas);
 
     cout << left << setw(7) << "Puesto" << " " << setw(21) << "Nombre de Tema"
          << " " << setw(6) << "Votos" << "\n";
