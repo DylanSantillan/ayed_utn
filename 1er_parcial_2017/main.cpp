@@ -1,3 +1,21 @@
+/*
+Muestra de datos
+
+Sexo    Edad    Tema
+M       35      a     <- suma
+V       20      c     <- suma
+V       45      b     <- no suma
+M       25      b     <- no suma
+M       50      b     <- suma
+
+Resultado esperado
+
+Puesto  Nombre de Tema        Votos
+1       a                     1
+2       b                     1
+3       c                     1
+*/
+
 #include <cstring>
 #include <iomanip>
 #include <iostream>
