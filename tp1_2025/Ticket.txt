@@ -4,8 +4,8 @@ SUC 170
 XXXXXXX 9999
 XXXX
 C.U.I.T. 99-99999999-9
-Fecha: Domingo  3/ 8/2025
-hora: 21: 7:58
+Fecha: Viernes  8/ 8/2025
+hora: 10: 9:35
 Nro. Ticket: 9999-99999999
 Nro. Caja: 9999
 -----------------------------------------
@@ -14,45 +14,45 @@ F A C T U R A - B
  6 x $      1440
 Zanahoria                      kilos     
 87539381                     $       8640
+ANSES      6                 $       1728
 
 50 x $    250.99
 Caramelos Menta Cristal        gramos    
 28375611                     $    12549.5
-Marca      2                 $    1254.95
 
  1 x $    1100.6
 Detergente Magistral           cc        
  2867423                     $     1100.6
-Jub.       3                 $     220.12
+MercPago   5                 $     275.15
 
  2 x $       700
 Arroz Gallo Oro                gramos    
  9836434                     $       1400
-Promo      1                 $         70
+ANSES      6                 $        350
 
 12 x $   1350.99
 Coca-Cola                      litros    
 12389470                     $    16211.9
-Jub.       3                 $    3242.38
 
  4 x $      2350
 Pollo entero fresco            kilos     
 38746557                     $       9400
-Jub.       3                 $       1880
+MercPago   5                 $        940
 
  3 x $     720.8
 Leche descremada Sancor        litros    
  9847569                     $     2162.4
+ANSES      6                 $      540.6
 
 11 x $     550.2
 Esponja Scotch Brite           unidad    
 19238757                     $     6052.2
-Marca      2                 $     605.22
+MercPago   5                 $    1513.05
 
  2 x $    1380.5
 Queso cremoso Milkaut          gramos    
  3928475                     $       2761
-Promo      1                 $      276.1
+Marca      2                 $      276.1
 
  7 x $    3450.8
 Bife de chorizo                kilos     
@@ -61,78 +61,77 @@ Bife de chorizo                kilos
 12 x $     450.5
 Galletitas Oreo                gramos    
 45676748                     $       5406
-Promo      1                 $      810.9
+ANSES      6                 $     1351.5
 
  5 x $    2790.5
 Milanesa de pollo              kilos     
   565897                     $    13952.5
-Marca      2                 $    2092.88
+ANSES      6                 $    3488.12
 
 23 x $    1850.8
 Helado Grido vainilla          litros    
  2938457                     $    42568.4
+ANSES      6                 $    8513.68
 
  1 x $    120000
 Microondas Samsung             unidad    
 56754317                     $     120000
-Promo      1                 $       6000
+Marca      2                 $      24000
 
 11 x $       425
 Lavandina Ayudin               litros    
  8594734                     $       4675
-Promo      1                 $     233.75
+MercPago   5                 $    1168.75
 
  2 x $     13591
 Asado de tira                  kilos     
 87234623                     $      27182
-Jub.       3                 $     5436.4
+ANSES      6                 $     5436.4
 
  3 x $     789.5
 Leche entera La Serenisima     litros    
   347953                     $     2368.5
-Promo      1                 $     236.85
+Marca      2                 $     236.85
 
 15 x $    650.25
 Yogur bebible frutilla Sancor  litros    
  8736464                     $    9753.75
-Marca      2                 $    975.375
+ANSES      6                 $    1950.75
 
 10 x $    1390.9
 Papa blanca                    kilos     
  1298374                     $      13909
-Marca      2                 $     1390.9
+MercPago   5                 $     1390.9
 
  5 x $    590.75
 Manzana roja                   kilos     
 38794561                     $    2953.75
-Marca      2                 $    295.375
+Comu.      4                 $     590.75
 
  2 x $    1580.6
 Medialunas manteca             unidad    
 89475657                     $     3161.2
-Promo      1                 $     474.18
 
  3 x $       540
 Pan lactal Bimbo               gramos    
  5734261                     $       1620
-Marca      2                 $        162
+ANSES      6                 $        324
 
  5 x $      1285
 Sprite Zero                    litros    
   298675                     $       6425
-Promo      1                 $     321.25
 
  3 x $    1575.8
 Tomate redondo                 kilos     
 10298424                     $     4727.4
-Promo      1                 $     472.74
 
 =========================================
-T O T A L                   $   316684.28
+T O T A L                   $   289061.03
 =========================================
 
-Su pago con Tipo Pago: 316684.28
-Su vuelto: 0
+Su pago con Tipo Pago: $ 289061.03
+Su vuelto: $ 0
+
  G R A C I A S  P O R  S U  C O M P R A
  Para consultas, sugerencias o reclamos
  comunicarse al correo infoKotto.com.ar

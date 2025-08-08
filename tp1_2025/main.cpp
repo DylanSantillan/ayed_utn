@@ -65,7 +65,7 @@ void IntCmb(sRubArt &elem1, sRubArt &elem2) {
     elem2 = aux;
 }
 
-void OrdxBur(tvrRubArt &vrRubArt, ushort cantArt) {
+void OrdxBur(tvrRubArt vrRubArt, ushort cantArt) {
     ushort k = 0;
     bool ordenado;
 
@@ -119,9 +119,9 @@ bool LeerLstCpra(ifstream &LstCpra, sCpra &rCpra) {
     return LstCpra.good();
 }
 
-void VolcarArchivos(fstream &Art, ifstream &IndArt, tvrIndArt &vrIndArt,
-                    ifstream &Rub, tvrRub &vrRub, ifstream &LstCpra,
-                    tvrLstCpra &vrLstCpra, tvrRubArt &vrRubArt, ushort &cantArt,
+void VolcarArchivos(fstream &Art, ifstream &IndArt, tvrIndArt vrIndArt,
+                    ifstream &Rub, tvrRub vrRub, ifstream &LstCpra,
+                    tvrLstCpra vrLstCpra, tvrRubArt vrRubArt, ushort &cantArt,
                     ushort &cantCpra) {
     sArt rArt;
     sDescArt rDescArt;
@@ -181,7 +181,7 @@ void ActLinea(fstream &Art, sArt &rArt, ushort posArt) {
     Art << "\n";
 }
 
-void ProcCompras(fstream &Art, tvrIndArt vrIndArt, tvrLstCpra &vrLstCpra,
+void ProcCompras(fstream &Art, tvrIndArt vrIndArt, tvrLstCpra vrLstCpra,
                  ushort cantArt, ushort cantCpra) {
     sArt rArt;
 
@@ -200,7 +200,6 @@ void ProcCompras(fstream &Art, tvrIndArt vrIndArt, tvrLstCpra &vrLstCpra,
 
         if (rArt.stock >= vrLstCpra[i].cantReq) {
             rArt.stock -= vrLstCpra[i].cantReq;
-
         } else {
             vrLstCpra[i].cantReq = rArt.stock;
             rArt.stock = 0;
@@ -292,14 +291,14 @@ void CabeceraTicket(int &ds) {
 }
 
 void PieTicket(float impTot, float impTotDesto, float impTotConDesto) {
-    cout << "Su pago con Tipo Pago: " << impTotConDesto << "\n"
-         << "Su vuelto: 0\n"
+    cout << "Su pago con Tipo Pago: $ " << impTotConDesto << "\n"
+         << "Su vuelto: $ 0\n\n"
          << " G R A C I A S  P O R  S U  C O M P R A\n"
          << " Para consultas, sugerencias o reclamos\n"
          << " comunicarse al correo infoKotto.com.ar\n";
 }
 
-void EmitirTicket(fstream &Art, tvrIndArt &vrIndArt, tvrLstCpra &vrLstCpra,
+void EmitirTicket(fstream &Art, tvrIndArt vrIndArt, tvrLstCpra vrLstCpra,
                   ushort cantArt, ushort cantCpra) {
     sArt rArt;
     int ds;
@@ -380,7 +379,7 @@ void EmitirTicket(fstream &Art, tvrIndArt &vrIndArt, tvrLstCpra &vrLstCpra,
     fclose(stdout);
 }
 
-void EmitirArt_x_Rubro(fstream &Art, tvrRub &vrRub, tvrRubArt &vrRubArt,
+void EmitirArt_x_Rubro(fstream &Art, tvrRub vrRub, tvrRubArt vrRubArt,
                        ushort cantArt) {
     sArt rArt;
     short posRub = -1;
