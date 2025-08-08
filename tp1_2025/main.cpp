@@ -1,3 +1,26 @@
+/*
+- Nombre del programa: TP1 - Supermercado Kotto
+- Objetivo: Simular el proceso de compra de un cliente en un supermercado,
+            procesando una lista de compras, actualizando el stock de artículos,
+            generando un ticket de compra y un listado de artículos por rubro.
+- Fecha de entrega: 12/08/2025
+- Nro. de versión: 1.0
+
+Datos del curso:
+- Materia: Algoritmos y Estructura de Datos
+- Comisión: K1044
+- Turno: Tarde
+- Profesor: Cuello, Hugo
+
+Datos del grupo:
+    - Nro. de grupo: 5
+    - Integrantes:
+        - Santillan, Dylan
+        - Cambas, Gaston
+
+- Nombre del compilador: Borland C++ V.5.5
+*/
+
 #include <cstring>
 #include <fstream>
 #include <iomanip>
